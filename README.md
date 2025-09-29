@@ -1,2 +1,1 @@
-# Kuweni-ws
-Ros2 ws of the kuweni
+# Kuweni Humanoid Robot Head
